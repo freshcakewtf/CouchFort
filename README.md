@@ -14,4 +14,4 @@ Couch Fort is a repo for the most craptastic B-Rate Movies we need to watch and 
 
 ## Other Possible lists
 
-Go Beyond just Movies! Game, Pizza Topings, and more are all welcome inside the couch fort. This place is for everyone.ssh -T git@github.com
+Go Beyond just Movies! Game, Pizza Topings, and more are all welcome inside the couch fort. This place is for everyone.
