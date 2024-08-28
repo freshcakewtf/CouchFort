@@ -4,7 +4,7 @@
 
 🍿 Welcome to Couch Fort! 🍿
 
-Couch Fort is a repo for the most craptastic B-Rate Movies we need to watch and re-watch over and over again. You know, the films that take you back to the comforting click-clack of a VHS player, where the tracking was never quite right, and the covers were always a bit too greasy.
+Couch Fort is a repo for the most craptastic B-Rate Movies we need to watch and re-watch. You know, the films that take you back to the comforting click-clack of a VHS player, where the tracking was never quite right, and the covers were always a bit too greasy.
 
 ### 📜 What’s in the Repo?
 
