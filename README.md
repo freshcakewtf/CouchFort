@@ -1,5 +1,7 @@
 # Couch Fort: A repo for Upper Valley Nerds
 
+![Banner](gifsMemesMore/Couch-fort.gif)
+
 ## Priority One. All other priorities rescinded. - Ash
 
 🍿🕹️💾 Welcome to Couch Fort! 💾🕹️🍿
