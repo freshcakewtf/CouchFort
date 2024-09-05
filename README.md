@@ -19,7 +19,10 @@ Couch Fort is a repo for Nerds here in the Upper Valley that have a love for cra
 - 🕹️ **Retro Classics**: If it it's pixelated and comes on a cartiridge
 - 🎮 **New Games**: All the new ones that are coming out
 
-## Other Possible events that couls be held
+## Next Quest
+ - Glen Falls Quest
+
+## Other Possible events that could happen
 - Video game/couch co-op night
 - Game Jam
 - Coffee time
