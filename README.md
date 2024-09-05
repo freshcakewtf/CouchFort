@@ -1,12 +1,13 @@
-# Couch Fort: A repo for Upper Valley Nerds
-
 ![Banner](gifsMemesMore/Couch-fort.gif)
 
-## Priority One. All other priorities rescinded. - Ash
+# Couch Fort: A repo for Upper Valley Nerds
+## No Trolls allowed
 
 🍿🕹️💾 Welcome to Couch Fort! 💾🕹️🍿
 
-Couch Fort is a repo for Nerds here in the Upper Valley that have a love for craptastic B-Rate Movies of any genre, all things computers, digital art, physical/digital security, games, puzzles, and more!
+Couch Fort is a repo for Nerds in the Upper Valley NH/VT that have a love for craptastic B-Rate Movies of any genre, all things computers, digital art, physical/digital security, games, puzzles, and more!
+
+We Like to solve problems and share laughs!
 
 ## 📜 What’s in the Repo?
 
@@ -18,6 +19,11 @@ Couch Fort is a repo for Nerds here in the Upper Valley that have a love for cra
 ### Video Games
 - 🕹️ **Retro Classics**: If it it's pixelated and comes on a cartiridge
 - 🎮 **New Games**: All the new ones that are coming out
+
+## Next Quest
+
+Glen Falls Quest
+Flat Rock
 
 ## Next Quest
  - Glen Falls Quest
