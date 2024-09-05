@@ -21,6 +21,7 @@ Couch Fort is a repo for Nerds here in the Upper Valley that have a love for cra
 
 ## Next Quest
  - Glen Falls Quest
+ - Flat Rock
 
 ## Other Possible events that could happen
 - Video game/couch co-op night
