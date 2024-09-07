@@ -20,14 +20,17 @@ We Like to solve problems and share laughs!
 - 🕹️ **Retro Classics**: If it it's pixelated and comes on a cartiridge
 - 🎮 **New Games**: All the new ones that are coming out
 
+
 ## Next Quest
 - [Palisades] (http://vitalcommunities.org/quest/palisades/?doing_wp_cron=1725678545.8877799510955810546875)
+
 
 ## Other Possible events that could happen
 - Video game/couch co-op night
 - Game Jam
 - Coffee time
 - Bug Hunt
+
 
 ## Comunity programs
 
@@ -56,3 +59,6 @@ Couch Fort
 │           └── questLog.md
 └── README.md
 
+=======
+
+Game, Pizza Topings, and more are all welcome inside the couch fort!
