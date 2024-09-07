@@ -22,8 +22,8 @@ We Like to solve problems and share laughs!
 
 
 ## Next Quest
- - Glen Falls Quest
- - Flat Rock
+- [Palisades] (http://vitalcommunities.org/quest/palisades/?doing_wp_cron=1725678545.8877799510955810546875)
+
 
 ## Other Possible events that could happen
 - Video game/couch co-op night
@@ -31,5 +31,34 @@ We Like to solve problems and share laughs!
 - Coffee time
 - Bug Hunt
 
+
+## Comunity programs
+
+### Helping out
+- Tech Drive for old and outdated computers
+    - repair and donate to folks in need
+
+### Classes
+- Lock picking and physical security
+- Digital art: Drawing
+- Video production
+
+Game, Pizza Topings, and more are all welcome inside the couch fort!
+
+
+### Project Tree
+```plaintext
+Couch Fort
+├── dataBase
+│   ├── movies
+│   │   └── src
+│   │       └── movieList.md
+│   └── quests
+│       ├── images
+│       └── src
+│           └── questLog.md
+└── README.md
+
+=======
 
 Game, Pizza Topings, and more are all welcome inside the couch fort!
