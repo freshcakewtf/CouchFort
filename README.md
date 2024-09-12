@@ -22,10 +22,12 @@ We Like to solve problems and share laughs!
 
 
 ## Next Quest
-- [Palisades] (http://vitalcommunities.org/quest/palisades/?doing_wp_cron=1725678545.8877799510955810546875)
+- [Palisades](http://vitalcommunities.org/quest/palisades/?doing_wp_cron=1725678545.8877799510955810546875)
 
+## Local Events
+- [CSinUV](https://www.meetup.com/computer-science-in-the-upper-valley/events/302924550/?slug=computer-science-in-the-upper-valley&eventId=302924550)
 
-## Other Possible events that could happen
+## Other Possible things that could happen
 - Video game/couch co-op night
 - Game Jam
 - Coffee time
@@ -43,8 +45,9 @@ We Like to solve problems and share laughs!
 - Digital art: Drawing
 - Video production
 
-Game, Pizza Topings, and more are all welcome inside the couch fort!
-
+## Members
+- [Fresh_Cake](https://github.com/freshcakewtf)
+- [Serialgeist](https://github.com/serialgeist)
 
 ### Project Tree
 ```plaintext
