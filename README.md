@@ -22,7 +22,7 @@ We Like to solve problems and share laughs!
 
 
 ## Next Quest
-- [Palisades](http://vitalcommunities.org/quest/palisades/?doing_wp_cron=1725678545.8877799510955810546875)
+- TBD
 
 ## Local Events
 - [CSinUV](https://www.meetup.com/computer-science-in-the-upper-valley/events/302924550/?slug=computer-science-in-the-upper-valley&eventId=302924550)
@@ -32,9 +32,6 @@ We Like to solve problems and share laughs!
 - Game Jam
 - Coffee time
 - Bug Hunt
-
-
-## Comunity programs
 
 ### Helping out
 - Tech Drive for old and outdated computers
