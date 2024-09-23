@@ -16,13 +16,14 @@ We Like to solve problems and share laughs!
 - 🆕 **Recent Releases**: Stay up to date with the freshest flicks hitting the big (and small) screen.
 - 🎭 **Genre Deep Dives**: Explore everything from sci-fi wonders to rom-com treasures, horror chills to feel-good thrills.
 
-### Video Games
-- 🕹️ **Retro Classics**: If it it's pixelated and comes on a cartiridge
-- 🎮 **New Games**: All the new ones that are coming out
+### [Video Games](/workspaces/CouchFort/dataBase/videoGames/games.md)
+- 🕹️ **What We're Playing**: Anything from Digital downloads to classic cartiriges. Here is what we're playing now
+- 🎮 **Gamer Tags**: Want to play online?
+- 💾 **Made A Game**: Game's we made
 
 
 ## Next Quest
-- TBD
+- [Chaffee Sanctuary](https://vitalcommunities.org/wp-content/uploads/2014/09/Chaffee-Sanctuary-Quest-4-Feb20.pdf)
 
 ## Local Events
 - [CSinUV](https://www.meetup.com/computer-science-in-the-upper-valley/events/302924550/?slug=computer-science-in-the-upper-valley&eventId=302924550)
@@ -45,19 +46,6 @@ We Like to solve problems and share laughs!
 ## Members
 - [Fresh_Cake](https://github.com/freshcakewtf)
 - [Serialgeist](https://github.com/serialgeist)
-
-### Project Tree
-```plaintext
-Couch Fort
-├── dataBase
-│   ├── movies
-│   │   └── src
-│   │       └── movieList.md
-│   └── quests
-│       ├── images
-│       └── src
-│           └── questLog.md
-└── README.md
 
 =======
 
