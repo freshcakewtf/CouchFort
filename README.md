@@ -5,13 +5,13 @@
 
 🍿🕹️💾 Welcome to Couch Fort! 💾🕹️🍿
 
-Couch Fort is a repo for Nerds in the Upper Valley NH/VT that have a love for craptastic B-Rate Movies of any genre, all things computers, digital art, physical/digital security, games, puzzles, and more!
+Couch Fort is a repo for Nerds in the Upper Valley NH/VT that have a love for craptastic B-Rate Movies of any genre, all things computers, digital art, physical/digital security, games, puzzles, pizza toppings and more!
 
 We Like to solve problems and share laughs!
 
 ## 📜 What’s in the Repo?
 
-### Movies
+### [Movies](/workspaces/CouchFort/dataBase/movies/src/movieList.md)
 - 🎥 **Unseen Gems**: From cult classics to under-the-radar indies, these are the movies that got away.
 - 🆕 **Recent Releases**: Stay up to date with the freshest flicks hitting the big (and small) screen.
 - 🎭 **Genre Deep Dives**: Explore everything from sci-fi wonders to rom-com treasures, horror chills to feel-good thrills.
@@ -26,7 +26,7 @@ We Like to solve problems and share laughs!
 - [Chaffee Sanctuary](https://vitalcommunities.org/wp-content/uploads/2014/09/Chaffee-Sanctuary-Quest-4-Feb20.pdf)
 
 ## Local Events
-- [CSinUV](https://www.meetup.com/computer-science-in-the-upper-valley/events/302924550/?slug=computer-science-in-the-upper-valley&eventId=302924550)
+- TBD
 
 ## Other Possible things that could happen
 - Video game/couch co-op night
@@ -49,4 +49,4 @@ We Like to solve problems and share laughs!
 
 =======
 
-Game, Pizza Topings, and more are all welcome inside the couch fort!
+Are all welcome inside the couch fort!
