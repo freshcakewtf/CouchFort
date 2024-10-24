@@ -21,12 +21,11 @@ We Like to solve problems and share laughs!
 - 🎮 **Gamer Tags**: Want to play online?
 - 💾 **Made A Game**: Game's we made
 
-
 ## Next Quest
 - [Chaffee Sanctuary](https://vitalcommunities.org/wp-content/uploads/2014/09/Chaffee-Sanctuary-Quest-4-Feb20.pdf)
 
 ## Local Events
-- TBD
+- Beetlejuice at the Church 6pm Costume Catwalk and movie at 7
 
 ## Other Possible things that could happen
 - Video game/couch co-op night
